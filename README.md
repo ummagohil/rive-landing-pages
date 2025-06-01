@@ -5,9 +5,9 @@ This will be part of a mono repo of landing pages that use Rive.
 User can see different use cases of landing pages using Rive in different repos. 
 
 ### 👩‍💻Technical Details
-React
-TypeScript
-Rive 
+- React
+- TypeScript
+- Rive 
 
 ### 💻Code
 [TO DO]
