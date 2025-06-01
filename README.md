@@ -1,4 +1,4 @@
-### 🖼️Rive Landing Pages
+# 🖼️Rive Landing Pages
 This will be part of a mono repo of landing pages that use Rive. 
 
 ### 📋Aims of App
